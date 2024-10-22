@@ -1877,6 +1877,7 @@ return {
   { word = "\\sqsupset", label = "\\sqsupset ⊐", insertText = "⊐", filterText = "\\sqsupset" },
   { word = "\\sqsupseteq", label = "\\sqsupseteq ⊒", insertText = "⊒", filterText = "\\sqsupseteq" },
   { word = "\\square", label = "\\square □", insertText = "□", filterText = "\\square" },
+  { word = "\\squareB", label = "\\squareB ■", insertText = "■", filterText = "\\squareB" },
   { word = "\\squb", label = "\\squb ⊏", insertText = "⊏", filterText = "\\squb" },
   { word = "\\squb=", label = "\\squb= ⊑", insertText = "⊑", filterText = "\\squb=" },
   { word = "\\squb=n", label = "\\squb=n ⋢", insertText = "⋢", filterText = "\\squb=n" },
